@@ -1,0 +1,72 @@
+[
+  {
+    "text": "How familiar are you with digital marketing?",
+    "options": [
+      "Not at all",
+      "Somewhat",
+      "Very familiar",
+      "Expert level"
+    ],
+    "correct": 2
+  },
+  {
+    "text": "What is the main purpose of a Partner Portal?",
+    "options": [
+      "To host marketing campaigns",
+      "To manage internal HR tasks",
+      "To provide resources and tools for partners",
+      "To sell products directly"
+    ],
+    "correct": 2
+  },
+  {
+    "text": "Which channel targets new audiences with budget?",
+    "options": [
+      "SEO",
+      "Paid Advertising",
+      "Email Marketing",
+      "Community Forums"
+    ],
+    "correct": 1
+  },
+  {
+    "text": "What builds more trust than company posts?",
+    "options": [
+      "Customer testimonials",
+      "Paid ads",
+      "Product descriptions",
+      "Press releases"
+    ],
+    "correct": 0
+  },
+  {
+    "text": "Which is NOT a main objective of digital campaigns?",
+    "options": [
+      "Brand awareness",
+      "Lead generation",
+      "Customer engagement",
+      "Reducing employee turnover"
+    ],
+    "correct": 3
+  },
+  {
+    "text": "Which platform is key for installers' digital marketing?",
+    "options": [
+      "Instagram",
+      "LinkedIn",
+      "Facebook",
+      "TikTok"
+    ],
+    "correct": 1
+  },
+  {
+    "text": "What does SEO stand for?",
+    "options": [
+      "Search Engine Optimization",
+      "Social Engagement Outreach",
+      "System Efficiency Operation",
+      "Search Engine Organization"
+    ],
+    "correct": 0
+  }
+]
